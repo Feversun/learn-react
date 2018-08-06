@@ -5,8 +5,8 @@ const IndexPage = () => (
   <div>
     <div className="Hero">
       <div className="HeroGroup">
-        <h1>Hi people</h1>
-        <p>Welcome to your new Gatsby site.</p>
+        <h1>YOYO What do you want from me</h1>
+        <p>Still I see you, celestial.</p>
         <p>Now go build something great.</p>
         <Link to="/page-2/">Go to page 2</Link>
       </div>
@@ -14,5 +14,6 @@ const IndexPage = () => (
 
   </div>
 )
+
 
 export default IndexPage
